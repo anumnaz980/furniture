@@ -33,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/usama7871/hackathon-2.git
+   git clone [https://github.com/usama7871/hackathon-2.git](https://github.com/anumnaz980/furniture.git)
    cd hackathon-2
    ```
 
