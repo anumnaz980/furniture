@@ -1,9 +1,4 @@
 # 🛋️ Funiro - Modern Furniture E-commerce
-
-<div align="center">
-  <img src="/public/Logo.png" alt="Funiro Logo" width="200"/>
-  <p>A modern, responsive e-commerce platform for luxury furniture.</p>
-</div>
 ---
 
 ## ✨ Features
@@ -141,19 +136,5 @@ Tailwind CSS configuration includes:
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
----
-
-## 📧 Contact
-
-For any inquiries, please contact us at **kusamakhan1234@gmail.com**.
-```
